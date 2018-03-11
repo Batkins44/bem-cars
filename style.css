@@ -1,0 +1,43 @@
+.listing {
+width:300px;
+background-color:ivory;
+border: 1px solid khaki;
+padding:5px;
+}
+
+.listing__makemodel{
+    color:slategray;
+    font-size: 18px;
+}
+
+.listing__price{
+    color:yellowgreen;
+    font-size:16px;
+}
+
+.listing__pic{
+    width:230px;
+    height:100px;
+}
+
+.listing--details{
+    font-size:12px;
+    color:black;
+}
+
+.listing__year{
+
+}
+
+.listing__color{
+
+}
+
+.listing__mileage{
+color:crimson;
+}
+
+.listing__engine{
+color:darkolivegreen;
+
+}
